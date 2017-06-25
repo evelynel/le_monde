@@ -1,0 +1,17 @@
+.menu {
+  box-sizing: content-box;
+  margin-right: 0px;
+  margin-top: 40px;
+  display:inline;
+  float: left;
+  width:5%;
+}
+
+.logo {
+  box-sizing: content-box;
+  margin-left: 0px;
+}
+
+.img_logo {
+  height: 100px;
+}
