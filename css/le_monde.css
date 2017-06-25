@@ -15,3 +15,26 @@
 .img_logo {
   height: 100px;
 }
+
+.tete {
+  border-bottom: 1px solid grey;
+  margin-bottom: 5%;
+}
+
+.article1 {
+  border-bottom: 1px solid grey;
+  text-align: center;
+  margin-bottom: 5%;
+}
+.soleil {
+  width: 50%;
+}
+
+.article2 {
+  border-bottom: 1px solid grey;
+  text-align: center;
+  margin-bottom: 5%;
+}
+.lorem {
+  width: 20%;
+}
